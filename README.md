@@ -23,7 +23,8 @@ Acquired knowledge:
 
 
 ## Release History & Organization
-* 3.0 Last revision and delivery project
+* 3.0
+    *  Last revision and delivery project
 * 2.1
     * Creating the login & register website
 * 2.0
