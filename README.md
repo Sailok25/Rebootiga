@@ -6,72 +6,53 @@
   </a>
 
   <h1 align="center">Re:Bootiga</h1>
-
+  
   <p align="center">
-    <b>This is my first HTML // CSS Project!</b>
-     <p>I hope you like the project</p>
+    <p>This is my first HTML // CSS Project!</p>
     <br />
 </div>
 
-## Download
-Windows:
 
-```sh
-edit autoexec.bat
-```
 
-## Usage example
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+<h3>This is my first HTML // CSS Project!</h3>
 
-## Development setup
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+Here's why:
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should implement DRY principles to the rest of your life :smile:
 
-```sh
-make install
-npm test
-```
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+Use the `BLANK_README.md` to get started.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## Release History
 
-* 0.2.1
+* 2.1
     * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
+* 2.0
     * CHANGE: Remove `setDefaultXYZ()`
     * ADD: Add `init()`
-* 0.1.1
+* 1.2
     * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
+* 1.1
     * The first proper release
     * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
+* 1.0
     * Work in progress
 
 
+
 ## Acknowledgments
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
-
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+1. People who help me in this project
+2. Youtube Tutorials xd
