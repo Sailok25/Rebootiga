@@ -1,8 +1,11 @@
 <!-- LOGO PRESENTATION -->
 <div align="center">
-  <a href="https://github.com/Sailok25">
-    <img src="rebootiga.png" alt="Logo">
-  </a>
+  <img src="rebootiga.png" alt="Logo">
+</div>
+<div align="center">
+   <a href="https://github.com/Sailok25">
+    <img src="by.png" alt="bysailok" width=150>
+    </a>
 </div>
 
 
