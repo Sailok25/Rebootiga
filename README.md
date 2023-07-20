@@ -1,27 +1,18 @@
 <!-- LOGO PRESENTATION -->
-<br />
 <div align="center">
   <a href="https://github.com/Sailok25">
-    <img src="algo.png" alt="Logo">
+    <img src="sailok.png" alt="Logo">
   </a>
-
   <h1 align="center">Re:Bootiga</h1>
-  
-  <p align="center">
-    <p>This is my first HTML // CSS Project!</p>
-    <br />
 </div>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This is my first HTML & CSS Project!
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-<h3>This is my first HTML // CSS Project!</h3>
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project was created thanks to the help of my partner. We worked on it for 6 months as long as everything turned out well, and although this was our first project, we are satisfied with the result obtained.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
