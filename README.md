@@ -1,4 +1,5 @@
 <!-- LOGO PRESENTATION -->
+<section id= "top">
 <div align="center">
   <img src="rebootiga.png" alt="Logo">
 </div>
@@ -7,7 +8,6 @@
     <img src="by.png" alt="bysailok" width=150>
     </a>
 </div>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -22,27 +22,26 @@ Acquired knowledge:
 * better teamwork :)
 
 
-
-## Release History
-
+## Release History & Organization
+* 3.0 Last revision and delivery project
 * 2.1
-    * CHANGE: Update docs (module code remains unchanged)
+    * Creating the login & register website
 * 2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
+    * Cfinishing CSS
+    * Full website review
 * 1.2
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
+    * Checking HTML bugs
+    * Starting the CSS
 * 1.1
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
+    * Structuring the HTML
 * 1.0
-    * Work in progress
+    * Preparing the base of the web
 
 
-
+<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 1. People who help me in this project
 2. Youtube Tutorials xd
 
 
-<p align="right">(<a href="#rebootiga">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
