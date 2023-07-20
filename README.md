@@ -1,22 +1,19 @@
-# Rebootiga
-> First project in HTML and CSS
+<!-- LOGO PRESENTATION -->
+<br />
+<div align="center">
+  <a href="https://github.com/Sailok25">
+    <img src="algo.png" alt="Logo">
+  </a>
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+  <h1 align="center">Re:Bootiga</h1>
 
-One to two paragraph statement about your product and what it does.
+  <p align="center">
+    <b>This is my first HTML // CSS Project!</b>
+     <p>I hope you like the project</p>
+    <br />
+</div>
 
-![](header.png)
-
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
+## Download
 Windows:
 
 ```sh
@@ -53,15 +50,8 @@ npm test
 * 0.0.1
     * Work in progress
 
-## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
+## Acknowledgments
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
@@ -76,3 +66,12 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
+
+
+## Meta
+
+Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+
+Distributed under the XYZ license. See ``LICENSE`` for more information.
+
+[https://github.com/yourname/github-link](https://github.com/dbader/)
