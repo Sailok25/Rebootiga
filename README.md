@@ -1,9 +1,8 @@
 <!-- LOGO PRESENTATION -->
 <div align="center">
   <a href="https://github.com/Sailok25">
-    <img src="sailok.png" alt="Logo">
+    <img src="rebootiga.png" alt="Logo">
   </a>
-  <h1 align="center">Re:Bootiga</h1>
 </div>
 
 
