@@ -19,7 +19,6 @@ This project was created thanks to the help of my co-worker. We worked on it for
 Acquired knowledge:
 * HTML
 * CSS
-* better teamwork :)
 
 
 ## Release History & Organization
